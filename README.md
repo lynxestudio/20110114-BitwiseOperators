@@ -12,7 +12,6 @@ La siguiente tabla muestra los tipos numéricos, su longitud en bytes y su valor
 <p align="justify">
 Así por ejemplo si tenemos valores decimales representados en variables byte (8 bits hasta 255 en decimal)
 </p>
-<img src="tabla2.png">
 <pre>
 byte a = 22;
 byte b = 33;
@@ -42,7 +41,7 @@ su representación en binario es:
 Así con cada tipo numérico siempre agrupando las cadenas de bits de 8 en 8.
 La siguiente tabla muestra los operadores bitwise, su significado y su resultado.
 </p>
-<img src="">
+<img src="tabla2.png">
 <p align="justify">
 A continuación un ejemplo de la utilización de estos operadores con enteros, este programa tiene 3 clases:
 </p>
