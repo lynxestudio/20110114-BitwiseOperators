@@ -1,0 +1,5 @@
+/home/martin/Projects/Samples.BitwiseCalc/Samples.BitwiseCalc/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/martin/Projects/Samples.BitwiseCalc/Samples.BitwiseCalc/bin/Debug/Samples.BitwiseCalc.pdb
+/home/martin/Projects/Samples.BitwiseCalc/Samples.BitwiseCalc/bin/Debug/Samples.BitwiseCalc.exe
+/home/martin/Projects/Samples.BitwiseCalc/Samples.BitwiseCalc/obj/x86/Debug/Samples.BitwiseCalc.exe
+/home/martin/Projects/Samples.BitwiseCalc/Samples.BitwiseCalc/obj/x86/Debug/Samples.BitwiseCalc.pdb
