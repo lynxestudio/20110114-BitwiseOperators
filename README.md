@@ -8,7 +8,7 @@ Los tipos de datos donde usualmente aplican estos operadores son: los numéricos
 <p align="justify">
 La siguiente tabla muestra los tipos numéricos, su longitud en bytes y su valor en decimal.
 </p>
-<img src="tabla1.png">
+<img src="images/tabla1.png">
 <p align="justify">
 Así por ejemplo si tenemos valores decimales representados en variables byte (8 bits hasta 255 en decimal)
 </p>
@@ -41,30 +41,30 @@ su representación en binario es:
 Así con cada tipo numérico siempre agrupando las cadenas de bits de 8 en 8.
 La siguiente tabla muestra los operadores bitwise, su significado y su resultado.
 </p>
-<img src="tabla2.png">
+<img src="images/tabla2.png">
 <p align="justify">
 A continuación un ejemplo de la utilización de estos operadores con enteros, este programa tiene 3 clases:
 </p>
 <p align="justify">
 1.BitwiseGUI.class: Contiene el código para las interacciones del usuario con el programa, como el menú,la pausa y la impresión del resultado.
 </p>
-<img src="BitwiseGUI.png">
+<img src="images/BitwiseGUI.png">
 <p align="">
 2.BitwiseMath.class: Contiene las operaciones unarias y binarias de los operadores.
 </p>
-<img src="BitwiseMath.png">
+<img src="images/BitwiseMath.png">
 <p align="justify">
 3.MainClass.class: Es el programa principal en donde se evalua la opción ingresada por el usuario.
 </p>
-<img src="MainClass.png">
+<img src="images/MainClass.png">
 <p align="justify">
 Al ejecutarlo veremos los siguientes resultados:
 </p>
-<img src="bitwise0.png">
-<img src="bitwise1.png">
-<img src="bitwise2.png">
-<img src="bitwise3.png">
-<img src="bitwise4.png">
+<img src="images/bitwise0.png">
+<img src="images/bitwise1.png">
+<img src="images/bitwise2.png">
+<img src="images/bitwise3.png">
+<img src="images/bitwise4.png">
 <p align="justify">
 Otro uso común de estos operadores esta en las enumeraciones como en el caso de los valores de las enumeraciones FileMode y FileAccess del siguiente código.
 </p>
