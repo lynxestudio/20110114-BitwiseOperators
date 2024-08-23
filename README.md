@@ -46,17 +46,12 @@ La siguiente tabla muestra los operadores bitwise, su significado y su resultado
 A continuación un ejemplo de la utilización de estos operadores con enteros, este programa tiene 3 clases:
 </p>
 <p align="justify">
-1.BitwiseGUI.class: Contiene el código para las interacciones del usuario con el programa, como el menú,la pausa y la impresión del resultado.
+<ol>
+<li><b>BitwiseGUI.class:</b> Contiene el código para las interacciones del usuario con el programa, como el menú,la pausa y la impresión del resultado.</li>
+<li><b>BitwiseMath.class:</b> Contiene las operaciones unarias y binarias de los operadores.</li>
+<li><b>MainClass.class:</b> Es el programa principal en donde se evalua la opción ingresada por el usuario.</li>
+</ol>
 </p>
-<img src="images/BitwiseGUI.png">
-<p align="">
-2.BitwiseMath.class: Contiene las operaciones unarias y binarias de los operadores.
-</p>
-<img src="images/BitwiseMath.png">
-<p align="justify">
-3.MainClass.class: Es el programa principal en donde se evalua la opción ingresada por el usuario.
-</p>
-<img src="images/MainClass.png">
 <p align="justify">
 Al ejecutarlo veremos los siguientes resultados:
 </p>
